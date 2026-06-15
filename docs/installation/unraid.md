@@ -3,6 +3,9 @@ title: Unraid
 icon: simple/unraid
 ---
 
+!!! important
+    All Unraid community apps appears to be unlisted at the moment.
+
 !!! info "Disclaimer"
     None of the Unraid community apps are not managed by stashapp team.
 
